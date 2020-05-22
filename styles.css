@@ -1,0 +1,12 @@
+.copy-head-ref-section {
+  margin-top: 8px;
+  width: 100%;
+  display: inline-block;
+  font-size: 14px;
+  line-height: 20px;
+  color: #24292e;
+}
+
+.copy-head-ref {
+  width: 550px;
+}
